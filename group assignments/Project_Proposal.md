@@ -16,6 +16,8 @@ Our project is to create spatial visualization of whether and how racial attitud
 
 **General Household Survey**: We will also be using the latest general household survey conducted in 2020, of which we have access to [a sample through datafirst](https://www.datafirst.uct.ac.za/dataportal/index.php/catalog/887/related-materials), a data portal for open access data on Africa managed by the University of Capetown. 
 
+**National Household Travel Survey**: We will also be using the National household travel survey conducted in 2020. 
+
 **Wards in Gauteng Region** The Municipal Demarcation Board of South Africa has spatial data available of Guateng wards. The shapefile data can be found on our group repo [here](https://github.com/esavignano23/up206a-group-project/blob/main/group%20assignments/MDB_Wards_2020.zip)
 
 **Bus and Train Lines in Gauteng**: Though data is available for railway stations in Gauteng from the Gauteng City Region Integrated Geospatial Data Platform, it is not available for download. We will be requesting access to download a shapefile for bus and rail lines. 
