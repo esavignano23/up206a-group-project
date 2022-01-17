@@ -11,7 +11,7 @@ Our project is to create spatial visualization of whether and how racial attitud
 ## Data sources for the study
 
 **Quality of Life Surveys**: Our primary data set that we will use for this analysis is the GCRO’s quality of life survey. The biennial Quality of Life (QoL) survey, first conducted in 2009, measures the quality of life, socio-economic circumstances, attitudes to service delivery, psycho-social attitudes, value-base and other characteristics of the Gauteng City Region. It serves as a tracking and diagnostic tool, affording a rich information resource for policymakers and the public wanting to see where progress is being made, and where concerns remain.
-- [20/21 Quality of Life Survey](https://gcro.ac.za/research/project/detail/quality-life-survey-vi-202021/) 
+- [17/18 Quality of Life Survey](https://www.datafirst.uct.ac.za/dataportal/index.php/catalog/GCRO) 
 - [Previous Quality of Life Surveys](https://www.gcro.ac.za/outputs/datasets/ )
 
 **General Household Survey**: We will also be using the latest general household survey conducted in 2020, of which we have access to [a sample through datafirst](https://www.datafirst.uct.ac.za/dataportal/index.php/catalog/887/related-materials), a data portal for open access data on Africa managed by the University of Capetown. 
