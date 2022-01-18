@@ -23,9 +23,9 @@ Our project is to create spatial visualization of whether and how racial attitud
 **Bus and Train Lines in Gauteng**: Though data is available for railway stations in Gauteng from the Gauteng City Region Integrated Geospatial Data Platform, it is not available for download. We will be requesting access to download a shapefile for bus and rail lines. 
 - [Gauteng Province Rail Stations](https://gisportal.gauteng.gov.za/portal/home/item.html?id=418d284c8e2f451e90485fad49b6b680#data)
 
+All of our current data sources can be found [here](https://github.com/esavignano23/up206a-group-project/tree/main/group%20assignments)
+
 ## Methodology
 
 Below is visual flow chart of our planned methodology and expected visualization outputs:<img width="607" alt="Methodology" src="https://user-images.githubusercontent.com/97046327/149607216-dfb7d43e-fdbb-4ee9-b2f0-729f5050bb63.png">
 
-
-## Sources
