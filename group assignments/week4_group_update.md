@@ -7,7 +7,9 @@
 Though we will be working on these two broad categories, we will continuously share updates and collaborate to "merge" our work during Week 5/6
 ### Status Update
 
-Overall our team is feeling enthusiastic about our project and hopeful about our final outcome. We find the work to be interesting and are proud of what we've explored and mapped thus far! Our communication is working well. We check in with each other regularly to provide updates, brainstorm, and ask questions. In terms of what's not working 😅
+Overall our team is feeling enthusiastic about our project and hopeful about our final outcome. We find the work to be interesting and are proud of what we've explored and mapped thus far! Our communication is working well. We check in with each other regularly to provide updates, brainstorm, and ask questions. 
+
+In terms of what's not working 😅
 - We're struggling with python vocabulary and how to google the code we need to produce what we have in mind. It's pretty time consuming work and oftentimes ends with us still encountering errors in our code
 - Another aspect we're struggling with is determining what will work as a visual presentation and what won't; what type of map works best with what type of data; and what packages we need to import to achieve certain goals
 - Perhaps our biggest struggle is determining what we can accomplish within a certain amount of time and determining whether something we want to explore and map is feasible within our time frame
